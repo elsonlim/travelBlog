@@ -7,7 +7,8 @@
     "test": "jest",
     "tsc-w": "tsc -w",
     "nodemon": "nodemon build/index.js",
-    "concurrently": "npx concurrently -r 'npm:tsc-w' 'npm:nodemon'"
+    "concurrently": "npx concurrently -r 'npm:tsc-w' 'npm:nodemon'",
+    "lint": "tslint -c tslint.json -p tsconfig.json"
   },
   "author": "",
   "license": "ISC",
@@ -18,6 +19,7 @@
     "nodemon": "^1.19.3",
     "ts-jest": "^24.1.0",
     "tsc": "^1.20150623.0",
+    "tslint": "^5.20.0",
     "typescript": "^3.6.3"
   }
 }
