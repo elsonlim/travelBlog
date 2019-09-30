@@ -1,3 +1,5 @@
-"use strict";
-export const sum = (a: number, b: number): number => a + b;
-console.log(sum(999, 987));
+import app from "./app";
+const port = 3000;
+
+// tslint:disable-next-line:no-console
+app.listen(port, () => console.log(`Example app listening on port ${port}!`));
