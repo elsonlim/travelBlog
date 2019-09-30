@@ -1,0 +1,223 @@
+2019-09-30 16:54:51 [31merror[39m: my error
+2019-09-30 16:54:51 [33mwarn[39m: my warn
+2019-09-30 16:54:51 [32minfo[39m: my info
+2019-09-30 16:54:51 [31merror[39m: my error
+2019-09-30 16:54:51 [33mwarn[39m: my warn
+2019-09-30 16:54:51 [32minfo[39m: my info
+2019-09-30 16:55:08 [31merror[39m: my error
+2019-09-30 16:55:08 [33mwarn[39m: my warn
+2019-09-30 16:55:08 [32minfo[39m: my info
+2019-09-30 16:55:09 [31merror[39m: my error
+2019-09-30 16:55:09 [33mwarn[39m: my warn
+2019-09-30 16:55:09 [32minfo[39m: my info
+2019-09-30 16:55:10 [31merror[39m: my error
+2019-09-30 16:55:10 [33mwarn[39m: my warn
+2019-09-30 16:55:10 [32minfo[39m: my info
+2019-09-30 16:55:11 [31merror[39m: my error
+2019-09-30 16:55:11 [33mwarn[39m: my warn
+2019-09-30 16:55:11 [32minfo[39m: my info
+2019-09-30 16:55:28 [31merror[39m: my error
+2019-09-30 16:55:28 [33mwarn[39m: my warn
+2019-09-30 16:55:28 [32minfo[39m: my info
+2019-09-30 16:59:05 [31merror[39m: my error
+2019-09-30 16:59:05 [33mwarn[39m: my warn
+2019-09-30 16:59:05 [32minfo[39m: my info
+2019-09-30 16:59:05 [36mverbose[39m: my verbose
+2019-09-30 16:59:05 [31merror[39m: my error
+2019-09-30 16:59:05 [33mwarn[39m: my warn
+2019-09-30 16:59:05 [32minfo[39m: my info
+2019-09-30 16:59:05 [36mverbose[39m: my verbose
+2019-09-30 16:59:36 [31merror[39m: my error
+2019-09-30 16:59:36 [33mwarn[39m: my warn
+2019-09-30 16:59:36 [32minfo[39m: my info
+2019-09-30 16:59:36 [36mverbose[39m: my verbose
+2019-09-30 16:59:36 [34mdebug[39m: my debug
+2019-09-30 16:59:36 [35msilly[39m: my silly
+2019-09-30 16:59:40 [31merror[39m: my error
+2019-09-30 16:59:40 [33mwarn[39m: my warn
+2019-09-30 16:59:40 [32minfo[39m: my info
+2019-09-30 16:59:40 [36mverbose[39m: my verbose
+2019-09-30 16:59:40 [34mdebug[39m: my debug
+2019-09-30 16:59:40 [35msilly[39m: my silly
+2019-09-30 17:02:49 [31merror[39m: my error
+2019-09-30 17:02:49 [33mwarn[39m: my warn
+2019-09-30 17:02:49 [32minfo[39m: my info
+2019-09-30 17:02:49 [36mverbose[39m: my verbose
+2019-09-30 17:02:49 [31merror[39m: my error
+2019-09-30 17:02:49 [33mwarn[39m: my warn
+2019-09-30 17:02:49 [32minfo[39m: my info
+2019-09-30 17:02:49 [36mverbose[39m: my verbose
+{"message":"my error","level":"error"}
+{"message":"my warn","level":"warn"}
+{"message":"my info","level":"info"}
+{"message":"my verbose","level":"verbose"}
+{"message":"my error","level":"error"}
+{"message":"my warn","level":"warn"}
+{"message":"my info","level":"info"}
+{"message":"my verbose","level":"verbose"}
+2019-09-30 17:03:59 error: my error
+2019-09-30 17:03:59 warn: my warn
+2019-09-30 17:03:59 info: my info
+2019-09-30 17:03:59 verbose: my verbose
+2019-09-30 17:04:00 error: my error
+2019-09-30 17:04:00 warn: my warn
+2019-09-30 17:04:00 info: my info
+2019-09-30 17:04:00 verbose: my verbose
+2019-09-30 17:04:03 error: my error
+2019-09-30 17:04:03 warn: my warn
+2019-09-30 17:04:03 info: my info
+2019-09-30 17:04:03 verbose: my verbose
+2019-09-30 17:04:03 debug: my debug
+2019-09-30 17:04:03 silly: my silly
+2019-09-30 17:10:10 error: my error
+2019-09-30 17:10:10 warn: my warn
+2019-09-30 17:10:10 info: my info
+2019-09-30 17:10:10 verbose: my verbose
+2019-09-30 17:10:10 error: my error
+2019-09-30 17:10:10 warn: my warn
+2019-09-30 17:10:10 info: my info
+2019-09-30 17:10:10 verbose: my verbose
+2019-09-30 17:10:27 error: my error
+2019-09-30 17:10:27 warn: my warn
+2019-09-30 17:10:27 info: my info
+2019-09-30 17:10:27 verbose: my verbose
+2019-09-30 17:10:28 error: my error
+2019-09-30 17:10:28 warn: my warn
+2019-09-30 17:10:28 info: my info
+2019-09-30 17:10:28 verbose: my verbose
+2019-09-30 17:11:23 error: my error
+2019-09-30 17:11:23 warn: my warn
+2019-09-30 17:11:23 info: my info
+2019-09-30 17:11:23 verbose: my verbose
+2019-09-30 17:11:24 error: my error
+2019-09-30 17:11:24 warn: my warn
+2019-09-30 17:11:24 info: my info
+2019-09-30 17:11:24 verbose: my verbose
+2019-09-30 17:32:05 info: combined
+
+2019-09-30 17:32:06 info: combined
+
+2019-09-30 17:32:10 info: combined
+
+2019-09-30 17:32:41 info: ::ffff:127.0.0.1 - - [30/Sep/2019:09:32:41 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-09-30 17:32:41 info: ::ffff:127.0.0.1 - - [30/Sep/2019:09:32:41 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-09-30 17:32:45 info: ::1 - - [30/Sep/2019:09:32:45 +0000] "GET /health HTTP/1.1" 304 - "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36"
+
+2019-09-30 17:34:46 info: ::ffff:127.0.0.1 - - [30/Sep/2019:09:34:46 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-09-30 17:34:46 info: ::ffff:127.0.0.1 - - [30/Sep/2019:09:34:46 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-09-30 17:35:11 info: ::ffff:127.0.0.1 - - [30/Sep/2019:09:35:11 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-09-30 17:35:12 info: ::ffff:127.0.0.1 - - [30/Sep/2019:09:35:12 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-09-30 17:35:19 info: ::ffff:127.0.0.1 - - [30/Sep/2019:09:35:19 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-09-30 17:35:19 info: ::ffff:127.0.0.1 - - [30/Sep/2019:09:35:19 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-09-30 17:39:34 info: ::ffff:127.0.0.1 - - [30/Sep/2019:09:39:34 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-09-30 17:39:35 info: ::ffff:127.0.0.1 - - [30/Sep/2019:09:39:35 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-09-30 17:41:02 info: ::ffff:127.0.0.1 - - [30/Sep/2019:09:41:02 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-09-30 17:41:11 error: undefined
+2019-09-30 17:41:11 info: ::ffff:127.0.0.1 - - [30/Sep/2019:09:41:11 +0000] "GET /health HTTP/1.1" 500 23 "-" "node-superagent/3.8.3"
+
+2019-09-30 17:41:11 error: undefined
+2019-09-30 17:41:11 info: ::ffff:127.0.0.1 - - [30/Sep/2019:09:41:11 +0000] "GET /health HTTP/1.1" 500 23 "-" "node-superagent/3.8.3"
+
+2019-09-30 17:41:15 error: undefined
+2019-09-30 17:41:15 info: ::1 - - [30/Sep/2019:09:41:15 +0000] "GET /health HTTP/1.1" 500 23 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36"
+
+2019-09-30 17:42:20 error: Yolo
+2019-09-30 17:42:20 info: ::ffff:127.0.0.1 - - [30/Sep/2019:09:42:20 +0000] "GET /health HTTP/1.1" 500 23 "-" "node-superagent/3.8.3"
+
+2019-09-30 17:42:21 error: Yolo
+2019-09-30 17:42:21 info: ::ffff:127.0.0.1 - - [30/Sep/2019:09:42:21 +0000] "GET /health HTTP/1.1" 500 23 "-" "node-superagent/3.8.3"
+
+2019-09-30 17:42:27 error: Yolo
+2019-09-30 17:42:27 info: ::1 - - [30/Sep/2019:09:42:27 +0000] "GET /health HTTP/1.1" 500 23 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36"
+
+2019-09-30 18:06:39 info: ::ffff:127.0.0.1 - - [30/Sep/2019:10:06:39 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-09-30 18:06:40 info: ::ffff:127.0.0.1 - - [30/Sep/2019:10:06:40 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-09-30 18:10:07 info: ::ffff:127.0.0.1 - - [30/Sep/2019:10:10:07 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-09-30 18:10:08 info: ::ffff:127.0.0.1 - - [30/Sep/2019:10:10:08 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-09-30 18:10:55 info: ::ffff:127.0.0.1 - - [30/Sep/2019:10:10:55 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-09-30 18:10:55 info: ::ffff:127.0.0.1 - - [30/Sep/2019:10:10:55 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-09-30 20:41:22 info: ::1 - - [30/Sep/2019:12:41:22 +0000] "GET /health HTTP/1.1" 200 15 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36"
+
+2019-09-30 20:42:59 info: ::ffff:127.0.0.1 - - [30/Sep/2019:12:42:59 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-09-30 20:43:05 info: ::ffff:127.0.0.1 - - [30/Sep/2019:12:43:05 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-09-30 20:43:58 info: ::ffff:127.0.0.1 - - [30/Sep/2019:12:43:58 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-09-30 20:43:58 info: ::ffff:127.0.0.1 - - [30/Sep/2019:12:43:58 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-09-30 21:22:19 info: ::ffff:127.0.0.1 - - [30/Sep/2019:13:22:19 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-09-30 21:22:20 info: ::ffff:127.0.0.1 - - [30/Sep/2019:13:22:20 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-09-30 21:22:27 info: ::1 - - [30/Sep/2019:13:22:27 +0000] "GET /health HTTP/1.1" 304 - "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36"
+
+2019-09-30 21:26:06 info: ::ffff:127.0.0.1 - - [30/Sep/2019:13:26:06 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-09-30 21:26:20 info: ::ffff:127.0.0.1 - - [30/Sep/2019:13:26:20 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-09-30 21:28:51 info: ::ffff:127.0.0.1 - - [30/Sep/2019:13:28:51 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-09-30 21:29:01 info: ::ffff:127.0.0.1 - - [30/Sep/2019:13:29:01 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-09-30 21:30:31 info: ::1 - - [30/Sep/2019:13:30:31 +0000] "GET / HTTP/1.1" 404 139 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36"
+
+2019-09-30 21:32:34 info: ::ffff:127.0.0.1 - - [30/Sep/2019:13:32:34 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-09-30 21:32:34 info: ::ffff:127.0.0.1 - - [30/Sep/2019:13:32:34 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-09-30 21:35:01 info: ::ffff:127.0.0.1 - - [30/Sep/2019:13:35:01 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-09-30 21:35:01 info: ::ffff:127.0.0.1 - - [30/Sep/2019:13:35:01 +0000] "GET /asdf HTTP/1.1" 404 143 "-" "node-superagent/3.8.3"
+
+2019-09-30 21:35:04 info: ::ffff:127.0.0.1 - - [30/Sep/2019:13:35:04 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-09-30 21:35:04 info: ::ffff:127.0.0.1 - - [30/Sep/2019:13:35:04 +0000] "GET /asdf HTTP/1.1" 404 143 "-" "node-superagent/3.8.3"
+
+2019-09-30 21:35:49 error: asdf
+2019-09-30 21:35:49 info: ::ffff:127.0.0.1 - - [30/Sep/2019:13:35:49 +0000] "GET /health HTTP/1.1" 500 23 "-" "node-superagent/3.8.3"
+
+2019-09-30 21:35:49 info: ::ffff:127.0.0.1 - - [30/Sep/2019:13:35:49 +0000] "GET /asdf HTTP/1.1" 404 143 "-" "node-superagent/3.8.3"
+
+2019-09-30 21:35:49 error: asdf
+2019-09-30 21:35:49 info: ::ffff:127.0.0.1 - - [30/Sep/2019:13:35:49 +0000] "GET /health HTTP/1.1" 500 23 "-" "node-superagent/3.8.3"
+
+2019-09-30 21:35:49 info: ::ffff:127.0.0.1 - - [30/Sep/2019:13:35:49 +0000] "GET /asdf HTTP/1.1" 404 143 "-" "node-superagent/3.8.3"
+
+2019-09-30 21:35:59 info: ::ffff:127.0.0.1 - - [30/Sep/2019:13:35:59 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-09-30 21:35:59 info: ::ffff:127.0.0.1 - - [30/Sep/2019:13:35:59 +0000] "GET /asdf HTTP/1.1" 404 143 "-" "node-superagent/3.8.3"
+
+2019-09-30 21:36:17 info: ::ffff:127.0.0.1 - - [30/Sep/2019:13:36:17 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-09-30 21:36:25 info: ::ffff:127.0.0.1 - - [30/Sep/2019:13:36:25 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-09-30 21:36:52 info: ::ffff:127.0.0.1 - - [30/Sep/2019:13:36:52 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-09-30 21:36:52 info: ::ffff:127.0.0.1 - - [30/Sep/2019:13:36:52 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-09-30 21:37:24 info: ::ffff:127.0.0.1 - - [30/Sep/2019:13:37:24 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-09-30 21:37:25 info: ::ffff:127.0.0.1 - - [30/Sep/2019:13:37:25 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-09-30 21:40:44 info: ::ffff:127.0.0.1 - - [30/Sep/2019:13:40:44 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-09-30 21:41:07 info: ::ffff:127.0.0.1 - - [30/Sep/2019:13:41:07 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
