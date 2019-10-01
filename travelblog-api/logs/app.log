@@ -221,3 +221,156 @@
 
 2019-09-30 21:41:07 info: ::ffff:127.0.0.1 - - [30/Sep/2019:13:41:07 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
 
+2019-10-01 10:09:06 info: ::ffff:127.0.0.1 - - [01/Oct/2019:02:09:06 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-10-01 10:43:05 info: ::ffff:127.0.0.1 - - [01/Oct/2019:02:43:05 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-10-01 15:25:56 info: [object Object]
+2019-10-01 15:25:56 error: error connecting to db:MongoParseError: Invalid connection string
+2019-10-01 15:26:32 debug: undefined
+2019-10-01 15:26:32 error: error connecting to db:MongoParseError: Invalid connection string
+2019-10-01 15:26:45 debug: undefined
+2019-10-01 15:26:45 error: error connecting to db:MongoParseError: Invalid connection string
+2019-10-01 15:26:47 debug: undefined
+2019-10-01 15:26:47 error: error connecting to db:MongoParseError: Invalid connection string
+2019-10-01 15:27:11 debug: DB_URL:undefined
+2019-10-01 15:27:11 error: error connecting to db:MongoParseError: Invalid connection string
+2019-10-01 15:27:21 debug: DB_URL:undefined
+2019-10-01 15:27:21 error: error connecting to db:MongoParseError: Invalid connection string
+2019-10-01 15:27:25 debug: DB_URL:undefined
+2019-10-01 15:27:25 error: error connecting to db:MongoParseError: Invalid connection string
+2019-10-01 15:27:57 debug: DB_URL:undefined
+2019-10-01 15:27:57 error: error connecting to db:MongoParseError: Invalid connection string
+2019-10-01 15:28:02 debug: DB_URL:undefined
+2019-10-01 15:28:02 error: error connecting to db:MongoParseError: Invalid connection string
+2019-10-01 15:28:13 debug: DB_URL:undefined
+2019-10-01 15:28:13 error: error connecting to db:MongoParseError: Invalid connection string
+2019-10-01 15:28:19 debug: DB_URL:undefined
+2019-10-01 15:28:19 error: error connecting to db:MongoParseError: Invalid connection string
+2019-10-01 15:28:50 debug: DB_URL:mongodb://mongo:27017/test
+2019-10-01 15:28:50 error: error connecting to db:MongoNetworkError: failed to connect to server [mongo:27017] on first connect [MongoNetworkError: getaddrinfo ENOTFOUND mongo mongo:27017]
+2019-10-01 15:29:49 debug: DB_URL:mongodb://mongo:27017/test
+2019-10-01 15:29:49 info: Example app listening on port 3000!
+2019-10-01 15:29:49 error: error connecting to db:MongoNetworkError: failed to connect to server [mongo:27017] on first connect [MongoNetworkError: getaddrinfo ENOTFOUND mongo mongo:27017]
+2019-10-01 15:29:59 debug: DB_URL:mongodb://mongo:27017/test
+2019-10-01 15:29:59 info: Example app listening on port undefined!
+2019-10-01 15:29:59 error: error connecting to db:MongoNetworkError: failed to connect to server [mongo:27017] on first connect [MongoNetworkError: getaddrinfo ENOTFOUND mongo mongo:27017]
+2019-10-01 15:30:15 debug: DB_URL:mongodb://mongo:27017/test
+2019-10-01 15:30:16 info: Example app listening on port 3000!
+2019-10-01 15:30:16 error: error connecting to db:MongoNetworkError: failed to connect to server [mongo:27017] on first connect [MongoNetworkError: getaddrinfo ENOTFOUND mongo mongo:27017]
+2019-10-01 15:30:20 debug: DB_URL:mongodb://mongo:27017/test
+2019-10-01 15:30:20 info: Example app listening on port 3000!
+2019-10-01 15:30:20 error: error connecting to db:MongoNetworkError: failed to connect to server [mongo:27017] on first connect [MongoNetworkError: getaddrinfo ENOTFOUND mongo mongo:27017]
+2019-10-01 15:32:14 debug: DB_URL:mongodb://mongo:27017/test
+2019-10-01 15:32:14 info: Example app listening on port 3000!
+2019-10-01 15:32:14 error: error connecting to db:MongoNetworkError: failed to connect to server [mongo:27017] on first connect [MongoNetworkError: getaddrinfo ENOTFOUND mongo mongo:27017]
+2019-10-01 15:32:19 debug: DB_URL:mongodb://mongo:27017/test
+2019-10-01 15:32:19 info: Example app listening on port 3000!
+2019-10-01 15:32:19 error: error connecting to db:MongoNetworkError: failed to connect to server [mongo:27017] on first connect [MongoNetworkError: getaddrinfo ENOTFOUND mongo mongo:27017]
+2019-10-01 15:33:37 debug: DB_URL:mongodb://mongo:27017/test
+2019-10-01 15:33:37 info: Example app listening on port 3000!
+2019-10-01 15:33:37 error: error connecting to db:MongoNetworkError: failed to connect to server [mongo:27017] on first connect [MongoNetworkError: getaddrinfo ENOTFOUND mongo mongo:27017]
+2019-10-01 15:33:42 debug: DB_URL:mongodb://mongo:27017/test
+2019-10-01 15:33:42 info: Example app listening on port 3000!
+2019-10-01 15:33:42 error: error connecting to db:MongoNetworkError: failed to connect to server [mongo:27017] on first connect [MongoNetworkError: getaddrinfo ENOTFOUND mongo mongo:27017]
+2019-10-01 15:34:49 debug: DB_URL:localhost:27017/test
+2019-10-01 15:34:49 info: Example app listening on port 3000!
+2019-10-01 15:34:49 error: error connecting to db:MongoParseError: Invalid connection string
+2019-10-01 15:34:53 debug: DB_URL:localhost:27017/test
+2019-10-01 15:34:53 info: Example app listening on port 3000!
+2019-10-01 15:34:53 error: error connecting to db:MongoParseError: Invalid connection string
+2019-10-01 15:35:02 debug: DB_URL:http://localhost:27017/test
+2019-10-01 15:35:02 info: Example app listening on port 3000!
+2019-10-01 15:35:02 error: error connecting to db:MongoParseError: Invalid connection string
+2019-10-01 15:35:06 debug: DB_URL:http://localhost:27017/test
+2019-10-01 15:35:06 info: Example app listening on port 3000!
+2019-10-01 15:35:06 error: error connecting to db:MongoParseError: Invalid connection string
+2019-10-01 15:36:19 debug: DB_URL:mongodb://localhost:27017/test
+2019-10-01 15:36:19 info: Example app listening on port 3000!
+2019-10-01 15:36:19 info: connected to mongodb
+2019-10-01 15:36:24 debug: DB_URL:mongodb://localhost:27017/test
+2019-10-01 15:36:24 info: Example app listening on port 3000!
+2019-10-01 15:36:24 info: connected to mongodb
+2019-10-01 15:39:13 debug: DB_URL:mongodb://localhost:27017/test
+2019-10-01 15:39:13 info: Example app listening on port 3000!
+2019-10-01 15:39:13 info: connected to mongodb
+2019-10-01 15:41:36 debug: DB_URL:mongodb://localhost:27017/test
+2019-10-01 15:41:36 info: Example app listening on port 3000!
+2019-10-01 15:41:36 info: connected to mongodb
+2019-10-01 15:42:21 debug: DB_URL:mongodb://localhost:27017/test
+2019-10-01 15:42:21 info: Example app listening on port 3000!
+2019-10-01 15:42:21 info: connected to mongodb
+2019-10-01 15:43:46 debug: DB_URL:mongodb://localhost:27017/test
+2019-10-01 15:43:46 info: Example app listening on port 3000!
+2019-10-01 15:43:46 info: connected to mongodb
+2019-10-01 15:44:09 debug: DB_URL:mongodb://localhost:27017/test
+2019-10-01 15:44:09 info: Example app listening on port 3000!
+2019-10-01 15:44:09 info: connected to mongodb
+2019-10-01 15:44:14 debug: DB_URL:mongodb://localhost:27017/test
+2019-10-01 15:44:14 info: Example app listening on port 3000!
+2019-10-01 15:44:14 info: connected to mongodb
+2019-10-01 15:45:38 debug: DB_URL:mongodb://localhost:27017/test
+2019-10-01 15:45:38 info: Example app listening on port 3000!
+2019-10-01 15:45:38 info: connected to mongodb
+2019-10-01 15:52:32 debug: DB_URL:mongodb://localhost:27017/test
+2019-10-01 15:52:32 info: Example app listening on port 3000!
+2019-10-01 15:52:32 info: connected to mongodb
+2019-10-01 15:53:14 debug: DB_URL:mongodb://localhost:27017/test
+2019-10-01 15:53:14 info: Example app listening on port 3000!
+2019-10-01 15:53:14 info: connected to mongodb
+2019-10-01 15:53:23 debug: DB_URL:mongodb://localhost:27017/test
+2019-10-01 15:53:23 info: Example app listening on port 3000!
+2019-10-01 15:53:23 info: connected to mongodb
+2019-10-01 15:53:45 debug: DB_URL:mongodb://localhost:27017/test
+2019-10-01 15:53:45 info: Example app listening on port 3000!
+2019-10-01 15:53:45 info: connected to mongodb
+2019-10-01 15:53:49 debug: DB_URL:mongodb://localhost:27017/test
+2019-10-01 15:53:49 info: Example app listening on port 3000!
+2019-10-01 15:53:49 info: connected to mongodb
+2019-10-01 15:54:38 debug: DB_URL:mongodb://localhost:27017/test
+2019-10-01 15:54:38 info: Example app listening on port 3000!
+2019-10-01 15:54:38 info: connected to mongodb
+2019-10-01 15:54:59 debug: DB_URL:mongodb://localhost:27017/test
+2019-10-01 15:54:59 info: Example app listening on port 3000!
+2019-10-01 15:54:59 info: connected to mongodb
+2019-10-01 15:56:07 debug: DB_URL:mongodb://localhost:27017/test
+2019-10-01 15:56:07 info: Example app listening on port 3000!
+2019-10-01 15:56:07 info: connected to mongodb
+2019-10-01 15:56:15 debug: DB_URL:mongodb://localhost:27017/test
+2019-10-01 15:56:15 info: Example app listening on port 3000!
+2019-10-01 15:56:15 info: connected to mongodb
+2019-10-01 15:57:03 debug: DB_URL:mongodb://localhost:27017/test
+2019-10-01 15:57:03 info: Example app listening on port 3000!
+2019-10-01 15:57:03 info: connected to mongodb
+2019-10-01 15:58:21 debug: DB_URL:mongodb://localhost:27017/test
+2019-10-01 15:58:21 info: Example app listening on port 3000!
+2019-10-01 15:58:21 info: connected to mongodb
+2019-10-01 15:59:30 debug: DB_URL:mongodb://localhost:27017/test
+2019-10-01 15:59:30 info: Example app listening on port 3000!
+2019-10-01 15:59:30 info: connected to mongodb
+2019-10-01 15:59:40 debug: DB_URL:mongodb://localhost:27017/test
+2019-10-01 15:59:40 info: Example app listening on port 3000!
+2019-10-01 15:59:40 info: connected to mongodb
+2019-10-01 15:59:48 debug: DB_URL:mongodb://localhost:27017/test
+2019-10-01 15:59:48 info: Example app listening on port 3000!
+2019-10-01 15:59:48 info: connected to mongodb
+2019-10-01 16:00:18 debug: DB_URL:mongodb://localhost:27017/test
+2019-10-01 16:00:18 info: Example app listening on port 3000!
+2019-10-01 16:00:18 info: connected to mongodb
+2019-10-01 16:00:55 info: ::1 - - [01/Oct/2019:08:00:55 +0000] "GET /health HTTP/1.1" 200 15 "-" "PostmanRuntime/7.17.1"
+
+2019-10-01 16:01:21 debug: DB_URL:mongodb://localhost:27017/test
+2019-10-01 16:01:21 info: Example app listening on port 3000!
+2019-10-01 16:01:21 info: connected to mongodb
+2019-10-01 16:01:52 info: ::1 - - [01/Oct/2019:08:01:52 +0000] "POST /signup HTTP/1.1" 404 146 "-" "PostmanRuntime/7.17.1"
+
+2019-10-01 16:02:31 info: ::1 - - [01/Oct/2019:08:02:31 +0000] "POST /user/signup HTTP/1.1" 404 151 "-" "PostmanRuntime/7.17.1"
+
+2019-10-01 16:02:44 info: ::1 - - [01/Oct/2019:08:02:44 +0000] "POST /users/signup HTTP/1.1" 200 16 "-" "PostmanRuntime/7.17.1"
+
+2019-10-01 16:14:05 debug: DB_URL:mongodb://localhost:27017/test
+2019-10-01 16:14:05 info: Example app listening on port 3000!
+2019-10-01 16:14:05 info: connected to mongodb
+2019-10-01 16:14:35 debug: DB_URL:mongodb://localhost:27017/test
+2019-10-01 16:14:35 info: Example app listening on port 3000!
+2019-10-01 16:14:35 info: connected to mongodb

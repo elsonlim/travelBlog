@@ -1,5 +1,8 @@
-import app from "./app";
-const port = 3000;
+import dotenv from "dotenv";
+dotenv.config();
+import logger from "./utils/winston";
 
-// tslint:disable-next-line:no-console
-app.listen(port, () => console.log(`Example app listening on port ${port}!`));
+import app from "./app";
+const port = process.env.PORT;
+
+app.listen(port, () => logger.info(`Example app listening on port ${port}!`));

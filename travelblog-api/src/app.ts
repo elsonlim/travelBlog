@@ -1,12 +1,16 @@
 import cors from "cors";
 import express from "express";
 import morgan from "morgan";
-import logger, { stream } from "./winston";
+import userRouter from "./routes/user.routes";
+import logger, { stream } from "./utils/winston";
+import "./utils/db";
 
 const app = express();
 app.use(express.json());
 app.use(cors());
 app.use(morgan("combined", { stream }));
+
+app.use("/users", userRouter);
 
 app.get("/health", (req, res) => {
   res.json({ status: "up" });
