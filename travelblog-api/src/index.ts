@@ -1,5 +1,6 @@
 import dotenv from "dotenv";
 dotenv.config();
+import "./utils/db";
 import logger from "./utils/winston";
 
 import app from "./app";

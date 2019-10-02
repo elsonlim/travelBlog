@@ -3,7 +3,6 @@ import express from "express";
 import morgan from "morgan";
 import userRouter from "./routes/user.routes";
 import logger, { stream } from "./utils/winston";
-import "./utils/db";
 
 const app = express();
 app.use(express.json());

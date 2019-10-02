@@ -374,3 +374,211 @@
 2019-10-01 16:14:35 debug: DB_URL:mongodb://localhost:27017/test
 2019-10-01 16:14:35 info: Example app listening on port 3000!
 2019-10-01 16:14:35 info: connected to mongodb
+2019-10-01 17:12:26 info: ::ffff:127.0.0.1 - - [01/Oct/2019:09:12:26 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-10-01 17:31:23 info: ::ffff:127.0.0.1 - - [01/Oct/2019:09:31:23 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-10-01 17:54:03 info: ::ffff:127.0.0.1 - - [01/Oct/2019:09:54:03 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-10-01 17:54:48 info: ::ffff:127.0.0.1 - - [01/Oct/2019:09:54:48 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-10-01 17:57:20 info: ::ffff:127.0.0.1 - - [01/Oct/2019:09:57:20 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-10-01 17:57:34 info: ::ffff:127.0.0.1 - - [01/Oct/2019:09:57:34 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-10-01 17:57:42 info: ::ffff:127.0.0.1 - - [01/Oct/2019:09:57:42 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-10-01 17:58:33 info: ::ffff:127.0.0.1 - - [01/Oct/2019:09:58:33 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-10-01 17:58:36 info: ::ffff:127.0.0.1 - - [01/Oct/2019:09:58:36 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-10-01 17:59:54 info: ::ffff:127.0.0.1 - - [01/Oct/2019:09:59:54 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-10-01 18:00:09 info: ::ffff:127.0.0.1 - - [01/Oct/2019:10:00:09 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-10-01 18:00:41 info: ::ffff:127.0.0.1 - - [01/Oct/2019:10:00:41 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-10-01 18:03:36 info: ::ffff:127.0.0.1 - - [01/Oct/2019:10:03:36 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-10-01 18:04:44 info: ::ffff:127.0.0.1 - - [01/Oct/2019:10:04:44 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-10-01 18:05:20 info: ::ffff:127.0.0.1 - - [01/Oct/2019:10:05:20 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-10-01 18:06:19 info: ::ffff:127.0.0.1 - - [01/Oct/2019:10:06:19 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-10-01 18:07:35 info: ::ffff:127.0.0.1 - - [01/Oct/2019:10:07:35 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-10-01 18:08:08 info: ::ffff:127.0.0.1 - - [01/Oct/2019:10:08:08 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-10-01 18:08:16 info: ::ffff:127.0.0.1 - - [01/Oct/2019:10:08:16 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-10-01 18:08:43 info: ::ffff:127.0.0.1 - - [01/Oct/2019:10:08:43 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-10-01 18:09:53 info: ::ffff:127.0.0.1 - - [01/Oct/2019:10:09:53 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-10-01 18:10:02 info: ::ffff:127.0.0.1 - - [01/Oct/2019:10:10:02 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-10-01 18:10:10 info: ::ffff:127.0.0.1 - - [01/Oct/2019:10:10:10 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-10-01 18:10:19 info: ::ffff:127.0.0.1 - - [01/Oct/2019:10:10:19 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-10-01 18:10:23 info: ::ffff:127.0.0.1 - - [01/Oct/2019:10:10:23 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-10-01 18:10:35 info: ::ffff:127.0.0.1 - - [01/Oct/2019:10:10:35 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-10-01 18:10:41 info: ::ffff:127.0.0.1 - - [01/Oct/2019:10:10:41 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-10-01 18:10:51 info: ::ffff:127.0.0.1 - - [01/Oct/2019:10:10:51 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-10-01 18:11:38 info: ::ffff:127.0.0.1 - - [01/Oct/2019:10:11:38 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-10-01 18:12:31 info: ::ffff:127.0.0.1 - - [01/Oct/2019:10:12:31 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-10-01 18:12:54 info: ::ffff:127.0.0.1 - - [01/Oct/2019:10:12:54 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-10-01 18:13:09 info: ::ffff:127.0.0.1 - - [01/Oct/2019:10:13:09 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-10-01 18:13:22 info: ::ffff:127.0.0.1 - - [01/Oct/2019:10:13:22 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-10-01 18:13:45 info: ::ffff:127.0.0.1 - - [01/Oct/2019:10:13:45 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-10-01 18:14:34 info: ::ffff:127.0.0.1 - - [01/Oct/2019:10:14:34 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-10-01 18:17:54 info: ::ffff:127.0.0.1 - - [01/Oct/2019:10:17:54 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-10-01 18:18:29 info: ::ffff:127.0.0.1 - - [01/Oct/2019:10:18:29 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-10-01 18:19:06 info: ::ffff:127.0.0.1 - - [01/Oct/2019:10:19:06 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-10-02 09:37:21 info: ::ffff:127.0.0.1 - - [02/Oct/2019:01:37:21 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-10-02 09:51:47 info: ::ffff:127.0.0.1 - - [02/Oct/2019:01:51:47 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-10-02 09:52:43 info: ::ffff:127.0.0.1 - - [02/Oct/2019:01:52:43 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-10-02 10:24:09 info: ::ffff:127.0.0.1 - - [02/Oct/2019:02:24:09 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-10-02 11:04:17 info: ::ffff:127.0.0.1 - - [02/Oct/2019:03:04:17 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-10-02 11:04:36 info: ::ffff:127.0.0.1 - - [02/Oct/2019:03:04:36 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-10-02 11:20:21 debug: DB_URL:mongodb://localhost:27017/test
+2019-10-02 11:20:21 info: Example app listening on port 3000!
+2019-10-02 11:20:21 error: error connecting to db:MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]
+2019-10-02 11:20:37 debug: DB_URL:mongodb://localhost:27017/test
+2019-10-02 11:20:37 info: Example app listening on port 3000!
+2019-10-02 11:20:37 info: connected to mongodb
+2019-10-02 11:20:48 info: ::1 - - [02/Oct/2019:03:20:48 +0000] "POST /users/signup HTTP/1.1" 200 16 "-" "PostmanRuntime/7.17.1"
+
+2019-10-02 11:21:22 error: error connecting to db:MongoParseError: Invalid connection string
+2019-10-02 11:21:22 info: ::ffff:127.0.0.1 - - [02/Oct/2019:03:21:22 +0000] "POST /users/signup HTTP/1.1" 200 25 "-" "node-superagent/3.8.3"
+
+2019-10-02 11:21:46 info: ::ffff:127.0.0.1 - - [02/Oct/2019:03:21:46 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-10-02 11:21:46 error: error connecting to db:MongoParseError: Invalid connection string
+2019-10-02 11:21:46 info: ::ffff:127.0.0.1 - - [02/Oct/2019:03:21:46 +0000] "POST /users/signup HTTP/1.1" 200 25 "-" "node-superagent/3.8.3"
+
+2019-10-02 11:22:46 info: ::ffff:127.0.0.1 - - [02/Oct/2019:03:22:46 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-10-02 11:22:47 error: error connecting to db:MongoParseError: Invalid connection string
+2019-10-02 11:22:47 info: ::ffff:127.0.0.1 - - [02/Oct/2019:03:22:47 +0000] "POST /users/signup HTTP/1.1" 200 25 "-" "node-superagent/3.8.3"
+
+2019-10-02 11:22:57 info: ::ffff:127.0.0.1 - - [02/Oct/2019:03:22:57 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-10-02 11:22:59 error: error connecting to db:MongoParseError: Invalid connection string
+2019-10-02 11:22:59 info: ::ffff:127.0.0.1 - - [02/Oct/2019:03:22:59 +0000] "POST /users/signup HTTP/1.1" 200 25 "-" "node-superagent/3.8.3"
+
+2019-10-02 11:23:31 info: ::ffff:127.0.0.1 - - [02/Oct/2019:03:23:31 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-10-02 11:23:32 error: error connecting to db:MongoParseError: Invalid connection string
+2019-10-02 11:23:32 info: ::ffff:127.0.0.1 - - [02/Oct/2019:03:23:32 +0000] "POST /users/signup HTTP/1.1" 200 25 "-" "node-superagent/3.8.3"
+
+2019-10-02 11:23:58 info: ::ffff:127.0.0.1 - - [02/Oct/2019:03:23:58 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-10-02 11:23:59 error: error connecting to db:MongoParseError: Invalid connection string
+2019-10-02 11:24:23 info: ::ffff:127.0.0.1 - - [02/Oct/2019:03:24:23 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-10-02 11:24:23 error: error connecting to db:MongoParseError: Invalid connection string
+2019-10-02 11:26:45 info: ::ffff:127.0.0.1 - - [02/Oct/2019:03:26:45 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-10-02 11:26:46 error: error connecting to db:MongoParseError: Invalid connection string
+2019-10-02 11:26:58 error: error connecting to db:MongoParseError: Invalid connection string
+2019-10-02 11:27:25 error: error connecting to db:MongoParseError: Invalid connection string
+2019-10-02 11:31:30 debug: DB_URL:mongodb://localhost:27017/test
+2019-10-02 11:31:30 info: Example app listening on port 3000!
+2019-10-02 11:31:30 info: connected to mongodb
+2019-10-02 11:31:32 debug: DB_URL:mongodb://localhost:27017/test
+2019-10-02 11:31:32 info: Example app listening on port 3000!
+2019-10-02 11:31:32 info: connected to mongodb
+2019-10-02 11:31:49 debug: DB_URL:mongodb://localhost:27017/test
+2019-10-02 11:31:49 info: Example app listening on port 3000!
+2019-10-02 11:31:49 info: connected to mongodb
+2019-10-02 11:32:00 debug: DB_URL:mongodb://localhost:27017/test
+2019-10-02 11:32:00 info: Example app listening on port 3000!
+2019-10-02 11:32:00 info: connected to mongodb
+2019-10-02 11:32:02 debug: DB_URL:mongodb://localhost:27017/test
+2019-10-02 11:32:02 info: Example app listening on port 3000!
+2019-10-02 11:32:02 info: connected to mongodb
+2019-10-02 11:32:38 debug: DB_URL:mongodb://localhost:27017/test
+2019-10-02 11:32:38 info: Example app listening on port 3000!
+2019-10-02 11:32:38 info: connected to mongodb
+2019-10-02 11:32:41 info: ::ffff:127.0.0.1 - - [02/Oct/2019:03:32:41 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-10-02 11:32:41 info: connected to mongodb
+2019-10-02 11:33:31 info: ::ffff:127.0.0.1 - - [02/Oct/2019:03:33:31 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-10-02 11:33:32 info: connected to mongodb
+2019-10-02 11:34:05 debug: DB_URL:mongodb://localhost:27017/test
+2019-10-02 11:34:05 info: Example app listening on port 3000!
+2019-10-02 11:34:05 info: connected to mongodb
+2019-10-02 11:35:03 debug: DB_URL:mongodb://localhost:27017/test
+2019-10-02 11:35:03 info: Example app listening on port 3000!
+2019-10-02 11:35:04 info: connected to mongodb
+2019-10-02 11:35:07 info: connected to mongodb
+2019-10-02 11:35:07 info: ::ffff:127.0.0.1 - - [02/Oct/2019:03:35:07 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-10-02 11:35:32 debug: DB_URL:mongodb://localhost:27017/test
+2019-10-02 11:35:32 info: Example app listening on port 3000!
+2019-10-02 11:35:32 info: connected to mongodb
+2019-10-02 11:35:41 debug: DB_URL:mongodb://localhost:27017/test
+2019-10-02 11:35:41 info: Example app listening on port 3000!
+2019-10-02 11:35:41 info: connected to mongodb
+2019-10-02 11:35:48 info: ::ffff:127.0.0.1 - - [02/Oct/2019:03:35:48 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-10-02 11:35:48 info: connected to mongodb
+2019-10-02 11:35:59 info: ::ffff:127.0.0.1 - - [02/Oct/2019:03:35:59 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-10-02 11:36:00 info: connected to mongodb
+2019-10-02 11:36:00 info: ::ffff:127.0.0.1 - - [02/Oct/2019:03:36:00 +0000] "POST /users/signup HTTP/1.1" 200 25 "-" "node-superagent/3.8.3"
+
+2019-10-02 11:36:33 info: ::ffff:127.0.0.1 - - [02/Oct/2019:03:36:33 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-10-02 11:36:34 info: connected to mongodb
+2019-10-02 11:36:34 info: ::ffff:127.0.0.1 - - [02/Oct/2019:03:36:34 +0000] "POST /users/signup HTTP/1.1" 200 25 "-" "node-superagent/3.8.3"
+
+2019-10-02 11:36:57 info: ::ffff:127.0.0.1 - - [02/Oct/2019:03:36:57 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-10-02 11:36:58 info: connected to mongodb
+2019-10-02 11:36:58 info: ::ffff:127.0.0.1 - - [02/Oct/2019:03:36:58 +0000] "POST /users/signup HTTP/1.1" 200 25 "-" "node-superagent/3.8.3"
+
+2019-10-02 11:37:10 info: ::ffff:127.0.0.1 - - [02/Oct/2019:03:37:10 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-10-02 11:37:12 info: connected to mongodb
+2019-10-02 11:37:12 info: ::ffff:127.0.0.1 - - [02/Oct/2019:03:37:12 +0000] "POST /users/signup HTTP/1.1" 200 25 "-" "node-superagent/3.8.3"
+
+2019-10-02 11:37:55 info: connected to mongodb
+2019-10-02 11:37:55 info: ::ffff:127.0.0.1 - - [02/Oct/2019:03:37:55 +0000] "POST /users/signup HTTP/1.1" 200 25 "-" "node-superagent/3.8.3"
+
+2019-10-02 11:38:26 info: connected to mongodb
+2019-10-02 11:38:26 info: ::ffff:127.0.0.1 - - [02/Oct/2019:03:38:26 +0000] "POST /users/signup HTTP/1.1" 200 25 "-" "node-superagent/3.8.3"
+
+2019-10-02 11:38:34 info: ::ffff:127.0.0.1 - - [02/Oct/2019:03:38:34 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-10-02 11:38:34 info: connected to mongodb
+2019-10-02 11:38:34 info: ::ffff:127.0.0.1 - - [02/Oct/2019:03:38:34 +0000] "POST /users/signup HTTP/1.1" 200 25 "-" "node-superagent/3.8.3"
+
+2019-10-02 11:39:31 info: ::ffff:127.0.0.1 - - [02/Oct/2019:03:39:31 +0000] "GET /health HTTP/1.1" 200 15 "-" "node-superagent/3.8.3"
+
+2019-10-02 11:39:31 info: connected to mongodb
+2019-10-02 11:39:31 info: ::ffff:127.0.0.1 - - [02/Oct/2019:03:39:31 +0000] "POST /users/signup HTTP/1.1" 200 25 "-" "node-superagent/3.8.3"
+
