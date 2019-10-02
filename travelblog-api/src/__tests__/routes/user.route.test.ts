@@ -15,8 +15,7 @@ describe("User", () => {
 
   beforeAll(async () => {
     const mongoUri = global.__MONGO_URI__;
-    const mongoUriArray = mongoUri.split("/");
-    const dbName = mongoUriArray[mongoUriArray.length - 1];
+    const dbName = mongoUri.split("/").pop();
 
     connection = await MongoClient.connect(mongoUri, {
       useNewUrlParser: true,
